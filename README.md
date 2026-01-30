@@ -52,6 +52,7 @@ APP_NAME=backend_inventory
 ### Build & Run
 ```mvn
 - mvn clean install
-- mvn spring-boot:run
+- mvn spring-boot:run //Windows
+- ./mvnw spring-boot:run  #Linux/Mac
 ```
 
